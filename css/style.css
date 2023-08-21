@@ -14,6 +14,7 @@
     --footer : #212A4A;
     --black:#060b1b;
     --instagram : #ff5da0;
+    --picture : #2ACDC2;
     --success : #1ecab8;
     --danger : #f1646c;
     --dark-blue : #28365f;
@@ -185,6 +186,9 @@ section.profile .right ul.socials li:nth-child(2) a {
 
 section.profile .right ul.socials li:nth-child(3) a {
     background:var(--instagram);
+}
+section.profile .right ul.socials li:nth-child(4) a {
+    background:var(--picture);
 }
 
 .section__heading {
